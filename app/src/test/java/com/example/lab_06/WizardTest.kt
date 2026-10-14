@@ -12,7 +12,7 @@ class WizardTest {
     }
 
     @Test
-    fun casrSpell_explosion_succeful(){
+    fun castSpell_explosion_successful(){
         val damageDealt = evilWizard.castSpell("Explosion")
         assertEquals(30,damageDealt)
         assertEquals(20,evilWizard.mana)
@@ -27,7 +27,7 @@ class WizardTest {
         assertEquals(5, evilWizard.mana) // mana still is 5
     }
     @Test
-    fun casrSpell_frosbite_succeful(){
+    fun castSpell_frostbite_successful(){
         val damageDealt = evilWizard.castSpell("Frostbite")
         assertEquals(20,damageDealt)
         assertEquals(25,evilWizard.mana)
