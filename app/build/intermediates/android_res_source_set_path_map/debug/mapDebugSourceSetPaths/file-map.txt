@@ -1,0 +1,8 @@
+com.example.lab_06.app-pngs-0 /Users/yifanzhou/Desktop/2026F/CMPUT_301/lab-06/app/build/generated/res/pngs/debug
+com.example.lab_06.app-updated_navigation_xml-1 /Users/yifanzhou/Desktop/2026F/CMPUT_301/lab-06/app/build/generated/updated_navigation_xml/debug
+com.example.lab_06.app-packageDebugResources-2 /Users/yifanzhou/Desktop/2026F/CMPUT_301/lab-06/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.lab_06.app-packageDebugResources-3 /Users/yifanzhou/Desktop/2026F/CMPUT_301/lab-06/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.lab_06.app-debug-4 /Users/yifanzhou/Desktop/2026F/CMPUT_301/lab-06/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.lab_06.app-debug-5 /Users/yifanzhou/Desktop/2026F/CMPUT_301/lab-06/app/src/debug/res
+com.example.lab_06.app-main-6 /Users/yifanzhou/Desktop/2026F/CMPUT_301/lab-06/app/src/main/res
+gradleHome-0 /Users/yifanzhou/.gradle
